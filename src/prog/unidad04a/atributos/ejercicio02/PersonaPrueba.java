@@ -52,7 +52,6 @@ public class PersonaPrueba {
     System.out.println("El sexo de la persona es " + Character.toUpperCase(persona1.sexo));
     System.out.println("El peso de la persona es " + persona1.peso);
     System.out.println("La altura de la persona es " + persona1.altura);
-    System.out.println("Fin del programa.");
 
   }
 
